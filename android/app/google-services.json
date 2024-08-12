@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593469651990",
+    "project_id": "local-stuff-buy-and-sell",
+    "storage_bucket": "local-stuff-buy-and-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593469651990:android:47f50a02426acc0d080937",
+        "android_client_info": {
+          "package_name": "com.example.local_stuff_sell_buy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfswZoyFmBnc9T8n94ACOP7HQl12Utzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
